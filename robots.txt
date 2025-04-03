@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /index.html
+Host: geektopsite.github.io
+Sitemap: https://geektopsite.github.io/sitemap.xml
